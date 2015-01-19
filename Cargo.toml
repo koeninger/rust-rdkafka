@@ -1,0 +1,5 @@
+[package]
+
+name = "rdkafka"
+version = "0.0.1"
+authors = ["cody koeninger <cody@koeninger.org>"]
